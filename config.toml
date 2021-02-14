@@ -34,7 +34,7 @@ paginate = 10
     title = "Quasaris"
     subtitle = "Something powerful is coming"
     keywords = ""
-    copyright = "©2021 Quasaris Group"
+    copyright = "Quasaris Group"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
